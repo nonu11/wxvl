@@ -14204,5 +14204,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247499088&idx=1&sn=c4a90fdea61d8a9d2f7ef91d73d10f06": "poc | Windows 远程桌面网关 (RD Gateway) CVE-2025-21297介绍",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487486&idx=6&sn=ca5cfa1a13553a7ca1e6275272df5480": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIwNzAwOTQxMg==&mid=2652251875&idx=1&sn=9a043be40ff683ba496f06b8b7751a0d": "全球政府邮件系统沦陷：黑客利用XSS漏洞发起大规模间谍活动",
-    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485450&idx=1&sn=dd0751e325f02ecd7aada09b208840e7": "Src捡钱6，为什么大佬总能挖到你挖不到的漏洞（可自定义参数版jsonp、cors）"
+    "https://mp.weixin.qq.com/s?__biz=MzU3OTYxNDY1NA==&mid=2247485450&idx=1&sn=dd0751e325f02ecd7aada09b208840e7": "Src捡钱6，为什么大佬总能挖到你挖不到的漏洞（可自定义参数版jsonp、cors）",
+    "https://mp.weixin.qq.com/s?__biz=MzU5MTM5MTQ2MA==&mid=2247492198&idx=1&sn=cad62031ef7ee2bd2f307232c09abef9": "山东大学 | MiniCAT：了解和检测小程序中的跨页面请求伪造漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwOTE5MDY5NA==&mid=2247506397&idx=1&sn=58e38d3ae77e44376fa837ad9099a059": "入侵我的车，甚至你的车——大众汽车应用程序存在安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYwOTMyNA==&mid=2247485394&idx=1&sn=22b42b8052f7bcf2aff52733a50ef72f": "Java代审&后台计划任务中的RCE攻击"
 }
