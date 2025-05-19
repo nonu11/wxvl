@@ -14238,5 +14238,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk3NTIxNzEzNA==&mid=2247491401&idx=1&sn=fa3e959a55bb17dc4f2084e820af9475": "【漏洞挖掘案例】从XSS到\"RCE\"的PC端利用链构建",
     "https://mp.weixin.qq.com/s?__biz=MzI4MDQ5MjY1Mg==&mid=2247516652&idx=1&sn=35138d273cf5a0924a961337315fdb87": "红队资产发现工具 -- ICPAssetExpress（5月19日）",
     "https://mp.weixin.qq.com/s?__biz=MzUyMDQ4OTkyMg==&mid=2247548030&idx=1&sn=881b572138f84344fc12533b1b8678a4": "网络安全20年：从漏洞破解到AI防御的生态跃迁",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492550&idx=1&sn=5d99ff16c3e149c4423f1197748e51f1": "Linux 内核补丁管理：漏洞防御新策略"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492550&idx=1&sn=5d99ff16c3e149c4423f1197748e51f1": "Linux 内核补丁管理：漏洞防御新策略",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=6&sn=0d1f02515f463f5488a8ace5e841d877": "通过细节挖掘漏洞的艺术",
+    "https://mp.weixin.qq.com/s?__biz=MzkzOTIwOTkxMQ==&mid=2247484065&idx=1&sn=80efa6ce84afb40f4fbefc74569e4e41": "Clash Verge 1-Click RCE漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247487577&idx=4&sn=2b3bbda702b95680bb8469041a55a91f": "【Web实战】一次空白页面的“妙手回春”嘎嘎出严重漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNjcyODI1OA==&mid=2247484765&idx=1&sn=b9a2b63ae4870eaa17509553d1d15a2a": "Java代审&后台计划任务中的RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490098&idx=2&sn=477c546c495a1d59f2a34d685c7e88cc": "【漏洞预警】Invision Community themeeditor远程代码执行漏洞CVE-2025-47916",
+    "https://mp.weixin.qq.com/s?__biz=Mzk3NTEyMzQzOA==&mid=2247485956&idx=1&sn=a9af193167f80c63701522ddd5c41e18": "Jboss反序列化漏洞(CVE-2017-12149)漏洞复现nc与javaDeserH2HC反弹shell"
 }
