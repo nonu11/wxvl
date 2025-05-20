@@ -14279,5 +14279,13 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487438&idx=1&sn=ef49a682ff862cf1972a2c7917274ba1": "Ghost Route 检测 Next JS 中间件绕过漏洞 (CVE-2025-29927) 的攻击",
     "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514384&idx=2&sn=fcfc80f16f102b6fec2c364408384b51": "Pwn2Own 2025柏林黑客大赛：发现28个0day 斩获百万美元奖金",
     "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501089&idx=2&sn=1ebe4873b80d78327d69e54c096a745c": "【漏洞通告】glibc静态setuid程序dlopen代码执行漏洞 (CVE-2025-4802)",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b": "【安全圈】CISA最近将Chrome漏洞标记为被积极利用"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069726&idx=4&sn=6e0326f5a7bbfaabc1fb97d20777862b": "【安全圈】CISA最近将Chrome漏洞标记为被积极利用",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=4&sn=a35a1079fd3a884216dc28f8d3af5297": "Fortinet FortiOS 身份验证缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=2&sn=e08d06704ad18be109b3687efc5c973a": "Ivanti Endpoint Manager Mobile 需授权 代码注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=1&sn=e436f090f20203dae2788470d2e830f7": "Gnu Glibc 逻辑缺陷漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491589&idx=1&sn=24950336ac9f53aa1ec1584c73a58f5c": "BurpAPI越权漏洞检测工具|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=8&sn=5608f451446d34b3c8f6f699ea83c692": "Nodejs Node.Js 异常处理不当漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMTYyOTQ5NA==&mid=2247487145&idx=1&sn=c089110d0633e7f0798f8191da30eaef": "商用漏洞扫描器的盲区：为什么越权漏洞总被漏检？",
+    "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501349&idx=1&sn=59bf10bba063b60bdb410a2b2227295e": "漏洞速递 | CVE-2025-29927漏洞（附EXP）",
+    "https://mp.weixin.qq.com/s?__biz=MzA5NzQzNTc0Ng==&mid=2247502414&idx=5&sn=7162f099562c67bb40635cb4eb23f583": "SysAid SysAid On-Prem 未授权 XML外部实体注入(XXE)漏洞"
 }
