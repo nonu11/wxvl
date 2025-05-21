@@ -14331,5 +14331,12 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247544884&idx=1&sn=82fe2afa774e253e020af6d28ecf0d9e": "【渗透实战系列】|54-小程序渗透记录 通过细节挖掘漏洞的艺术",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321451&idx=3&sn=821456f16440650fb03a4c3b61a55746": "vLLM 曝高危远程代码漏洞，AI 服务器面临攻击风险",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490108&idx=1&sn=437c672c043c061be53714a52ae1cc38": "【漏洞预警】FortiOS TACACS+身份认证绕过漏洞(CVE-2025-22252)",
-    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=1&sn=fbd0408fe1e921d65adf6f736435cfa6": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第20期，总第38期]"
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=1&sn=fbd0408fe1e921d65adf6f736435cfa6": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第20期，总第38期]",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490397&idx=1&sn=d297b27606dab7d510399b202924f348": "【AI风险通告】vLLM存在远程代码执行漏洞（CVE-2025-47277）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491604&idx=1&sn=5c9fdbe2381fa02b0b113c2d4d1946e8": "AboutSSRF一款基于Burpsuite MontoyaAPI的黑盒SSRF漏洞自动化检测插件",
+    "https://mp.weixin.qq.com/s?__biz=MzIzOTc2OTAxMg==&mid=2247554991&idx=1&sn=349b4d22b12fcd3a515d02f35327005e": "车载网络通信“CAN总线”的安全与漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486690&idx=1&sn=1edf88a3285d6b7f9ce75f4029eadb8e": "【漏洞预警】VMware VCenter Server 命令执行漏洞(CVE-2025-41225)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484855&idx=2&sn=8e23287c2d5da0a9ea4574bc7fb17b8f": "【漏洞处置SOP】飞致云DataEase未授权访问控制不当漏洞（CVE-2024-30269）",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488490&idx=1&sn=a31e9acc3c762519b05168b72ae96024": "SpringBlade api∕blade-system∕menu∕list接口存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3NzU1NzIyMg==&mid=2247485022&idx=2&sn=90f73f6b0dac3ec07c2eb4bff9c96f3f": "CVE-2025-47916：Metasploit模块开源"
 }
