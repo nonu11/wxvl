@@ -14543,5 +14543,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484102&idx=1&sn=c379f685fa4de8feb2eae15f399a0df1": "【漏洞复现】vBulletin replaceAdTemplat 远程代码执行漏洞（CVE-2025-48827∕48828)",
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488513&idx=1&sn=bf90fe02d66ceea05dd6891a66f0aff2": "PagerMaid-Pyro run_sh接口存在远程命令执行漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484490&idx=1&sn=1108796cd3681ad4d71bf145929026e2": "GitHub MCP Server漏洞：通过MCP访问私有仓库",
-    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845584&idx=1&sn=c13de1d950bf86c3b5650e4f98717c8d": "Netfilter Tunnel 之殇：CVE-2025-22056分析"
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845584&idx=1&sn=c13de1d950bf86c3b5650e4f98717c8d": "Netfilter Tunnel 之殇：CVE-2025-22056分析",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NDUxMTI2NA==&mid=2247485130&idx=1&sn=32e88952742937670334c31a559fe750": "【漏洞复现】dify任意密码重置",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMDIwODM2MA==&mid=2653932200&idx=1&sn=ead3dc6e3d8a36b05a1a74ecc1ddf4fc": "AI工具ComfyUI惊现多个高危漏洞，已有境外组织发起网络攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492603&idx=2&sn=013df9f9a54c65cd271466572626705e": "Windows Server 2025 \"BadSuccessor\"漏洞可导致域控接管（PoC已公开，暂无补丁）",
+    "https://mp.weixin.qq.com/s?__biz=MjM5Njc3NjM4MA==&mid=2651137030&idx=2&sn=466072b21f20a9efd87f6114ce1557f8": "NASA开源软件被曝存在多个安全漏洞；提示注入威胁：GitHub MCP服务器漏洞允许攻击者访问私有代码库 | 牛览",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=2&sn=17860b8ad80dd13fe51616ba590c72c2": "【AI高危漏洞预警】LLama-Index CLI命令执行漏洞(CVE-2025-1753)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=1&sn=a781cae82004337aa46c61fb54bf864c": "GitHub MCP服务器漏洞使攻击者可访问私有代码库",
+    "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490153&idx=1&sn=b13f80c9c3dae8d161d3dcdcb7883cfe": "【严重漏洞预警】vBulletin replaceAdTemplat远程代码执行漏洞（CVE-2025-48827）"
 }
