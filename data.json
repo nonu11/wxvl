@@ -14529,5 +14529,19 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530246&idx=3&sn=bf5fc5129373658b9aeb7e2260f705d1": "Mimo 回归：CVE-2025-32432 被用于加密货币挖矿和代理软件活动",
     "https://mp.weixin.qq.com/s?__biz=MzkzMDE5MDI5Mg==&mid=2247509231&idx=2&sn=0a6f372871ff311926ba91a8708e3f2e": "SAST国标分析︱灵脉AI深度兼容GB∕T 34943∕34944-2017源代码漏洞测试规范",
     "https://mp.weixin.qq.com/s?__biz=MzAxODM5ODQzNQ==&mid=2247488566&idx=1&sn=02dcbc079feef0474efaac6fef9f91fc": "逐帧分析：Kernel Streaming 持续暴露漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26": "CVE-2025-21298零点击漏洞深度解析"
+    "https://mp.weixin.qq.com/s?__biz=MzU1NzczNTM1MQ==&mid=2247485317&idx=3&sn=aef0c4341cc7c8a06b7cb1161fb28b26": "CVE-2025-21298零点击漏洞深度解析",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0OTQzMDI4Mg==&mid=2247484860&idx=1&sn=8706853bda9e4ff3820f973f4c1a10af": "安钥®「漏洞防治标准作业程序（SOP）」征文启示 [2025年第21期，总第39期]",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069865&idx=1&sn=e29ae988e9c671b37c0b95f70beaf6d5": "【安全圈】全球互联网因BGP协议漏洞出现大规模路由震荡",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTMyMDQ3Mw==&mid=2247600035&idx=2&sn=b9b9043eddaa948747563c1262352a9b": "北京警方通报：境外黑客组织利用ComfyUI漏洞对我实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485857&idx=1&sn=68c4871e03965c933cea638f4dd70fc0": "英飞达影像存档与通讯PACS系统 WebUserLogin.asmx 信息泄露漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664243080&idx=2&sn=f3ace9c6fac492cbef8ab21825036bda": "关注 | ComfyUI存在多个高危漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523133&idx=1&sn=bf9dda6dcef75f6de012aa77866b6072": "DragonForce 勒索团伙瞄准MSP，发动供应链攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzU5ODgzNTExOQ==&mid=2247640068&idx=3&sn=3df2ba81a343350bbe1f28027c22b625": "Salesforce 将以 80 亿美元收购 Informatica",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=2&sn=30484ea29b1059a42eff9d3d3ccddf3a": "2个月荣登字节SRC年榜第一，云上漏洞秘籍首公开！",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651321972&idx=4&sn=e255487c860340a366b40b36be9e271d": "阿迪达斯数据泄露，第三方服务商漏洞致客户信息外泄",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTQwMzMxNA==&mid=2247542435&idx=1&sn=eac5973134804eb38d96bdfc769093ab": "官方通报ComfyUI存多个高危漏洞：已被境外黑客利用对我国网络实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMDc1MTM5Ng==&mid=2247484102&idx=1&sn=c379f685fa4de8feb2eae15f399a0df1": "【漏洞复现】vBulletin replaceAdTemplat 远程代码执行漏洞（CVE-2025-48827∕48828)",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488513&idx=1&sn=bf90fe02d66ceea05dd6891a66f0aff2": "PagerMaid-Pyro run_sh接口存在远程命令执行漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTY0MDgzNg==&mid=2247484490&idx=1&sn=1108796cd3681ad4d71bf145929026e2": "GitHub MCP Server漏洞：通过MCP访问私有仓库",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk2MTMxOQ==&mid=2727845584&idx=1&sn=c13de1d950bf86c3b5650e4f98717c8d": "Netfilter Tunnel 之殇：CVE-2025-22056分析"
 }
