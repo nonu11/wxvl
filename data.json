@@ -14743,5 +14743,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490173&idx=1&sn=4f5ff7a32aaddb7668e87502c08b810a": "【高危漏洞预警】YAML-LibYAML信息泄露漏洞(CVE-2025-40908)",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484586&idx=1&sn=61cc63ef6e7072a562ffca32d9e0498a": "java审计之下载漏洞获取到的代码如何断点调试",
     "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069983&idx=1&sn=eb2edf37f5fe485f355232db8212e7da": "【安全圈】OneDrive 文件选择器漏洞让应用程序获取用户整个云盘的访问权限",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544": "杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485889&idx=1&sn=6c577fda35fc0647c190200cce377544": "杭州三一谦成科技车辆监控服务平台 platformSql SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU1NTQ5MDEwNw==&mid=2247485116&idx=1&sn=306e44f00e3fa6ac9ef562887dfe241e": "天擎终端安全管理系统getsimilarlist存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODI1ODgzOA==&mid=2247507104&idx=1&sn=48dabeea7a2f1ec51307204a97523111": "SRC凭什么要为“废物”白帽子的真实漏洞付费？"
 }
