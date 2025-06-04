@@ -14805,5 +14805,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzU0NTU5NTA4NQ==&mid=2247491726&idx=1&sn=a620064d4be426858ff4515ad6baa67d": "CVE-2020-11800 Zabbix 命令注入漏洞复现",
     "https://mp.weixin.qq.com/s?__biz=MzI1NTM4ODIxMw==&mid=2247501362&idx=1&sn=01b71332a9c7c08f19fa2bd90f837ca6": "Vul情报 | CVE-2025-4123 漏洞（附EXP）",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519424&idx=1&sn=d2898555db99efec97a2a0bf0a748284": "CNVD通用型漏洞挖掘-app逻辑缺陷的两个挖掘案例",
-    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652069999&idx=2&sn=31032694ae0b355efabdb89fde5ebc02": "【安全圈】高通紧急发布 5 月补丁，修复 3 个 Adreno GPU 零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247491941&idx=1&sn=180a7a72b014cd3156a1f44dee242368": "最新xxl-job综合漏洞检测利用工具|漏洞探测",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTIwNTkyNg==&mid=2247555033&idx=1&sn=8b9eb9d96e81a19e599e4b06d4acd1d8": "Solon框架模板漏洞深度剖析与修复实战"
 }
