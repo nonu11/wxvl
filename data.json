@@ -14932,5 +14932,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484656&idx=2&sn=446b71f98850bef1c255884d2fa0ba8e": "16核CPU烧到100%！21节点六种漏洞扫描模式实测，这种模式让服务器暴走",
     "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690775&idx=1&sn=4897cf1429401e098228448bec6b6afe": "0041.我是如何接管 Vercel 子域名的",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611001&idx=4&sn=2dafbc946a12493ed35083385d421118": "一款以Web与全版本服务漏洞检测为核心的辅助性主、被动扫描工具",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491732&idx=1&sn=bcd132800c07215aff233df69aadc674": "锐捷EWEB路由器 timeout.php 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491732&idx=1&sn=bcd132800c07215aff233df69aadc674": "锐捷EWEB路由器 timeout.php 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493329&idx=2&sn=f1e9419c6425a0b7418bc51ebeb5c0d5": "漏洞预警 | DataEase身份认证绕过和远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489000&idx=4&sn=2066a14b4542a331149652d67e458428": "JS中的漏洞信息",
+    "https://mp.weixin.qq.com/s?__biz=MzAxOTk3NTg5OQ==&mid=2247493086&idx=2&sn=d147e432ba1c5547cdd9e986306e0e0e": "《LLM大模型越狱攻击预防与框架》第10章：未尽探索 (Unexplored Mist)",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNTYxNDAwNQ==&mid=2247484814&idx=1&sn=bd0f1048a2f82f6198b6866c03094a2d": "【漏洞复现】Dataease JWT 认证绕过漏洞∕远程代码执行（CVE-2025-49001∕CVE-2025-49002）",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489000&idx=3&sn=aa512efe567bc9a4141a808092f7f1df": "文件上传操作漏洞场景挖掘思路",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMzUyMjk2MQ==&mid=2247484486&idx=1&sn=0634de519da9dc207551df06c344f951": "Roundcube Mail后台代码执行漏洞复现（CVE-2025-49113）及POC"
 }
