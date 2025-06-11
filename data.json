@@ -15017,5 +15017,13 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=2&sn=2e039d2ebc04cf71f327eb71ea092dba": "CVE 2024-43570 和 CVE-2024-43535 的报告和 POC",
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463169&idx=1&sn=4657e8043045aba6ecf5bab93e343ee2": "信息安全漏洞周报（2025年第23期）",
     "https://mp.weixin.qq.com/s?__biz=Mzg5NjAxNjc5OQ==&mid=2247484489&idx=1&sn=a947eef1ac5b257d64b7afb09bdcbe3b": "AWS re:Inforce 2025 应用安全议题",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683": "利用 CVE-2025-0072 绕过 MTE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530717&idx=3&sn=3dda2acd611a02796d17b6fed3a78683": "利用 CVE-2025-0072 绕过 MTE",
+    "https://mp.weixin.qq.com/s?__biz=MzI1OTA1MzQzNA==&mid=2651248079&idx=1&sn=90e56a859ad29dc05f0cc997ae73bcb6": "建行分行因存在多项网络安全问题被罚 | “取个快递”损失数十万 | 黑客利用iMessage零点击漏洞攻击iPhone用户",
+    "https://mp.weixin.qq.com/s?__biz=MzkwODc1NTgyMg==&mid=2247485782&idx=1&sn=b30dd6f630934e592a540fd7f22a5df4": "渗透笔记：如何通过SQL注入漏洞拿到系统的管理员权限",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458595564&idx=2&sn=9250733f879b47dac40512814fc3dafd": "Microsoft Outlook 曝高危漏洞，仅需低权限就能实施攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795393&idx=3&sn=090e17c35f04c47f1f1b9556550131aa": "微软6月补丁日：修复 66 个漏洞，包括一个APT组织利用的0day",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795393&idx=1&sn=f1e2e5e4ed8a2a186635583fc8c57b24": "Stealth Falcon威胁组织利用微软WebDAV 0day漏洞开展间谍活动",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjY2MTIzMw==&mid=2650623694&idx=2&sn=e663f63c20fc80cba9fad9941e6903f5": "涉及66个重要漏洞！微软发布2025年6月补丁日安全通告",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=2&sn=ea145b27a636bc95e9cf0045e0f89d03": "Ivanti Workspace Control硬编码密钥漏洞暴露 SQL 凭据",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523260&idx=1&sn=961b0c000fcef3533fc9754b82415f9a": "微软6月补丁星期二值得关注的漏洞"
 }
