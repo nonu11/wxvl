@@ -15007,5 +15007,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzkzNTA0NzgyMA==&mid=2247484267&idx=1&sn=9acb4f45d2ea2b3cf8a88262ef691961": "CLFS cve-2022-37969",
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503473&idx=1&sn=46559985ab4d7f8502c1c9f1268ebaac": "Apache Kafka 多个高危漏洞安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=MzkzNTYwMTk4Mw==&mid=2247489508&idx=1&sn=0bfab3f39b28fb33bba8abd281d49b07": "Redis未授权漏洞复现汇总",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=3&sn=6eb1c5ad37527cefeda8cb6557e090a2": "【漏洞通告】Apache Kafka Broker JNDI远程代码执行漏洞(CVE-2025-27819)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNTI4NjU1Mw==&mid=2247485082&idx=1&sn=d864aa242dace84f433eb2fae22e0c69": "2025年5月企业必修安全漏洞清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507787&idx=1&sn=1470dd59fd12731195bf46d75d0e856c": "速修！Kafka Connect爆任意文件读取漏洞，无需授权",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501170&idx=2&sn=e7ea349dff54c8123a16fa49b1158f9b": "【漏洞通告】Apache Kafka Connect LDAP远程代码执行漏洞(CVE-2025-27818)",
+    "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492814&idx=1&sn=7fbcb92f5cf2e09c7b66163bf13863c7": "【已复现】Kafka Connect 任意文件读取漏洞（CVE-2025-27817）"
 }
