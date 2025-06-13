@@ -15128,5 +15128,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3NzUyMTM0NA==&mid=2247488011&idx=1&sn=db438e2b8d2a2c5a1639aac28411bc32": "漏洞预警 | Apache Kafka Connect任意文件读取与SSRF（CVE-2025-27817）",
     "https://mp.weixin.qq.com/s?__biz=Mzk0NDU5NTc4OA==&mid=2247484640&idx=1&sn=96d9b43f0787deee3e003ab7c1a6a485": "渗透测试-从下载漏洞到前端加解密+签名校验拿下sql注入",
     "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=1&sn=1230a9c3ec711c744e5355e4a173cd26": "Windows SMB客户端零日漏洞遭利用：攻击者采用反射型Kerberos中继攻击",
-    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08": "漏洞赏金工具 v1.0"
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492793&idx=1&sn=f428edcabb86adc4cae7213fe5214e08": "漏洞赏金工具 v1.0",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247530803&idx=1&sn=367fc89047b40e7893a2fd8293f50d34": "CVE-2025-27817 Apache Kafka 客户端：任意文件读取和 SSRF 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNDY0MjMxNQ==&mid=2247536253&idx=2&sn=afa344b3b17adafcbcd8949ea4943124": "聊热点｜国家安全部：“刷脸”时代，安全不容小觑；APT组织利用Windows WebDAV零日漏洞实施远程恶意软件攻击……",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MTc2NTExNg==&mid=2247492328&idx=1&sn=877dd3baec6be94332cc460166808bf0": "记一次实战日穿整个系统getshell-共九个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyNzQzNDI5OQ==&mid=2247486704&idx=1&sn=1e59b5cc0f1b3b36a82ca5bb0b3457b6": "【漏洞预警】Windows WebDAV 客户端远程代码执行漏洞(CVE-2025-33053)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491789&idx=1&sn=5885e0ee1c9dd9fab4cb35ea7bbd647e": "B-LINK AC1900 V1.0.2 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524783&idx=3&sn=945e6becb24f41d4dd077d47e9509f07": "Apache CloudStack漏洞使攻击者可破坏云基础设施系统"
 }
