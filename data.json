@@ -15158,5 +15158,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490237&idx=1&sn=dfd4f48b27c1593002da37e03645a275": "【高危漏洞预警】GeoServer未授权服务器端请求伪造(SSRF)漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173422&idx=4&sn=88e016f3aae3c6c67b79675aa556fc8e": "CNNVD关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=MzI0NDgxMzgxNA==&mid=2247496910&idx=2&sn=f9ede51c8a4f7ac0b9b98b076c9d7acc": "每周安全速递³⁴⁵ | Play勒索团伙利用SimpleHelp漏洞实施双重勒索",
-    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7": "同享人力管理管理平台 UploadHandler 任意文件上传漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzMxODkzMw==&mid=2247485936&idx=1&sn=c8db53c1a830e5151464c1c31ff2ffd7": "同享人力管理管理平台 UploadHandler 任意文件上传漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU3MDg2NDI4OA==&mid=2247491228&idx=1&sn=052a45b2108d847c0ec904a1c3075ce6": "两载光阴，我与0day的两次匿名邂逅",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=3&sn=e1a2654d1eb8eb944bf1949b9ed09b40": "GitLab曝高危漏洞组合，攻击者可实现完全账户接管",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651323069&idx=2&sn=46c850fbda9bc82352ef57c89fdd96e8": "苹果iMessage零点击漏洞遭间谍软件利用，记者成监控目标",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514513&idx=1&sn=67e663e82b15ccc4fb808170d7a081dc": "工信部：AI绘图工具ComfyUI多个安全漏洞已被用于实施网络攻击"
 }
