@@ -15351,5 +15351,18 @@
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=2&sn=fbdfd14e660079cd2400bb3ddf8f2342": "【高危漏洞预警】Windows SMB 权限提升漏洞(CVE-2025-33073)",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODYxMzY3OQ==&mid=2247519484&idx=1&sn=7bbad01455dcf564a7f70052be340777": "微软漏洞赏金TOP教你攻击网络协议",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490265&idx=1&sn=432dd1cb6769a98e401d684226627eb1": "【高危漏洞预警】泛微E-cology9 远程代码执行漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=1&sn=fccb308af75d0ed4e6fda2f6f3ffb43d": "Chrome 漏洞让攻击者能够执行任意代码 – 立即更新！"
+    "https://mp.weixin.qq.com/s?__biz=MzUyMzczNzUyNQ==&mid=2247524831&idx=1&sn=fccb308af75d0ed4e6fda2f6f3ffb43d": "Chrome 漏洞让攻击者能够执行任意代码 – 立即更新！",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546563&idx=2&sn=e3b299fc15a136e45ca0efdd0cbaf3b9": "Windows SMB客户端提权漏洞（CVE-2025-33073）及其在未启用SMB签名环境中的攻击原理",
+    "https://mp.weixin.qq.com/s?__biz=MzU0MjE2Mjk3Ng==&mid=2247489255&idx=1&sn=6aeab11cfe4dc3b1215c81d03177d2af": "美国CISA将苹果与TP-Link产品高危漏洞列入已知利用清单",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494556&idx=1&sn=c79aa1a66057f879b6885cd60d3cbd62": "Nuclei POC 漏洞验证可视化工具 | 更新V3.0.0",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652116640&idx=2&sn=dc4751da96a5482b4b5684916508100a": "医疗服务公司Episource数据泄露，影响540万人",
+    "https://mp.weixin.qq.com/s?__biz=MjM5OTk4MDE2MA==&mid=2655283656&idx=3&sn=641843bbd3df3792d39ce6ef902c63a7": "HVV（红队蓝队资料、威胁情报、技战法）、渗透测试、漏洞、代码审计、APT、DDOS、勒索病毒、CTF、逆向",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=1&sn=bb7af1bdae0d924f2df258a74cea48e5": "漏洞预警 | Apache Tomcat安全约束绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NzgyODEzNQ==&mid=2247489365&idx=2&sn=c4c745e3b68fe39fddc6bb157e321d50": "红队终极指南：“A-poc∕RedTeam-Tools”",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795477&idx=1&sn=c8cc84db69bc662ea39715896bbf0262": "Qualys 研究人员发现允许 root 权限攻击的严重 Linux 漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=3&sn=36633d2511379f57d133547778a390f8": "漏洞预警 | 月子会所ERP管理云平台任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMjU2Nzc1Mg==&mid=2247484633&idx=1&sn=991d4d622e93851617f7e085b3c8e2b8": "当漏洞成为“数字战争”的弹药，谁能改写攻防规则？",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493446&idx=2&sn=1cc5b2e1e376e2d93d5bd3bd41d1c1b0": "漏洞预警 | 信呼OA SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499911&idx=3&sn=f75d5f4ae14d450acb3ecd640947682c": ".NET 基于 MachineKey 一键维持权限，反序列化工具实现RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkyMDM4NDM5Ng==&mid=2247492959&idx=1&sn=9a1942dcd47e3a68c948162ff496ec37": "一个高性能的目录遍历漏洞扫描工具"
 }
