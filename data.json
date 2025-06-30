@@ -15696,5 +15696,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NTk4MTE1MQ==&mid=2247487516&idx=1&sn=0022a5911bd065644f71a5821e3a10df": "WinRAR 缺陷（CVE-2025-6218）：通过目录遍历执行远程代码",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491941&idx=1&sn=1be6e8f7856cb6fcf191a6d1858210d5": "H3C ER2200G2路由器 信息泄露漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531434&idx=1&sn=286150bf9b2ff07aab70a2d1b6518619": "威胁行为者利用 CVE-2025-3248 传播 Flodrix 僵尸网络",
-    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486063&idx=1&sn=987ae5f3106191a106c3baf22c700d1d": "探究备份软件Commvault CVE-2025-34028远程代码执行漏洞的挖掘过程 | 附poc"
+    "https://mp.weixin.qq.com/s?__biz=MzkzMDY2MDA2Ng==&mid=2247486063&idx=1&sn=987ae5f3106191a106c3baf22c700d1d": "探究备份软件Commvault CVE-2025-34028远程代码执行漏洞的挖掘过程 | 附poc",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MTIzNTgzMQ==&mid=2247521953&idx=1&sn=fa9a26d1e577d27a9fcfed76083384a1": "SRC 视角下：渗透测试中的逻辑漏洞思路博弈",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNDIzNDUxOQ==&mid=2247500308&idx=3&sn=8d7bc04718282b1c05140bc624169054": "蓝牙漏洞可能让黑客通过麦克风进行监听",
+    "https://mp.weixin.qq.com/s?__biz=MzUyODkwNDIyMg==&mid=2247550619&idx=1&sn=334f45681027caca456d36252eeb3866": "分享多个EDUSRC&企业SRC中、高危漏洞"
 }
