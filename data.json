@@ -15706,5 +15706,6 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490570&idx=1&sn=d35d9af3d4bc790baa81a45861ae4c91": "【多人运动】明日开启-漏洞情报群启动！",
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=1&sn=418faa9a83a09f3cdee7545462a61fa1": "CNVD漏洞周报2025年第24期",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490329&idx=1&sn=7a5a2c55b2fbbb3fa44d710232beeb33": "【高危漏洞预警】Apache Seata反序列化漏洞(CVE-2025-32897)",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523404&idx=2&sn=3ff2f901d13c30f8048d7a38b567880f": "蓝牙芯片集多个漏洞可导致攻击者窃听或盗取敏感信息"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523404&idx=2&sn=3ff2f901d13c30f8048d7a38b567880f": "蓝牙芯片集多个漏洞可导致攻击者窃听或盗取敏感信息",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494660&idx=1&sn=aa557759e534cc95f47181c56432377b": "PassGuard是一个轻量级安全工具，专为防护Linux系统中的脏牛(Dirty COW)内核漏洞而设计。"
 }
