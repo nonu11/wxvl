@@ -15748,5 +15748,8 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458596324&idx=2&sn=9aceb4a1f80e7cd75b8c79e45465f11a": "Linux Sudo 曝重大漏洞可提权至root并绕过主机限制，速更新！",
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503447&idx=1&sn=2a7f45d6621139fb1c9bb7364fe7dce5": "雷神众测漏洞周报2025.6.23-2025.6.29",
     "https://mp.weixin.qq.com/s?__biz=MzIwNDYwMDcyNQ==&mid=2247489022&idx=2&sn=53623527ace09a34e233e4c555c6c6f8": "【必查漏洞】Sudo chroot 权限提升漏洞(CVE-2025-32463)检测手册",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=3&sn=ffe4d01494f91fdfb954e714686d7dc2": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=3&sn=ffe4d01494f91fdfb954e714686d7dc2": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
+    "https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486706&idx=1&sn=b26a94a4d38e3bd58c87867369340cae": "国内白帽子能赚多少钱？有多少白帽子全职挖洞能养活自己？零基础兼职挖漏洞收藏这一篇就够了",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486896&idx=1&sn=43defdb17bf801bce12e5cc72250945f": "10 米内就能窃听你的耳机！知名音频芯片曝漏洞，索尼、Bose 等大牌耳机受影响",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "【0day】泛微OA前台登录绕过+后台组合拳RCE"
 }
