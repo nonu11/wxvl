@@ -15735,5 +15735,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "红帆OA MobileOA.asmx SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)",
-    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复"
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501245&idx=2&sn=b69280406515cfaba0f0b36bce7ecbcd": "【漏洞通告】Citrix NetScaler ADC和Gateway拒绝服务漏洞 (CVE-2025-6543)",
+    "https://mp.weixin.qq.com/s?__biz=MzI0NzE4ODk1Mw==&mid=2652096366&idx=2&sn=0bc84ccadfed7c9c2ab6818255f637c7": "IBM WebSphere Application Server 允许远程执行代码漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0MjY1ODE5Mg==&mid=2247486372&idx=1&sn=acde1e9a58f0d96700cec463b162ab2f": "工具集：z0scan【新发布：Web 与全版本服务漏洞检测的主、被动扫描工具】"
 }
