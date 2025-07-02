@@ -15732,5 +15732,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496088&idx=2&sn=06d53998d9241762baedba11484d462b": "上周关注度较高的产品安全漏洞(20250623-20250629)",
     "https://mp.weixin.qq.com/s?__biz=MjM5NzE1NjA0MQ==&mid=2651207230&idx=1&sn=be1b2877b624966bf5393397469e9f94": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复",
     "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247492897&idx=1&sn=200f78d280c37069d42eb4e905bb1352": "安卓版CobaltStrike：远程控制的终极利器|漏洞探测",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531505&idx=1&sn=ef6e5a16657ad393b2f33a8fd5a20296": "如何在 Django 应用程序中链接目录遍历和 CSV 解析器滥用以进行 RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247491980&idx=1&sn=0425e1ac6aba4303cd7fb98b6307bc55": "红帆OA MobileOA.asmx SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494141&idx=1&sn=7bf65d26e4d8ee07d1bb79a849c00f27": "【已复现】Linux sudo 本地提权漏洞(CVE-2025-32462、CVE-2025-32463)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5ODYwMjI2MA==&mid=2649794356&idx=1&sn=1807d8a8e309d53363046e89b71a51fe": "悟空Agent实战：LLaMA-Factory高危0day漏洞挖掘与修复"
 }
