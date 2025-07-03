@@ -15753,5 +15753,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486896&idx=1&sn=43defdb17bf801bce12e5cc72250945f": "10 米内就能窃听你的耳机！知名音频芯片曝漏洞，索尼、Bose 等大牌耳机受影响",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "【0day】泛微OA前台登录绕过+后台组合拳RCE",
     "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
-    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531563&idx=1&sn=fd2abea0bc22c02f009f198104bb3b39": "简单利用 Wing FTP 服务器 RCE (CVE-2025-47812) 漏洞，运行命令并获取反向 shell"
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531563&idx=1&sn=fd2abea0bc22c02f009f198104bb3b39": "简单利用 Wing FTP 服务器 RCE (CVE-2025-47812) 漏洞，运行命令并获取反向 shell",
+    "https://mp.weixin.qq.com/s?__biz=MzUzODU3ODA0MA==&mid=2247490527&idx=1&sn=38615bfc7507a4ef985d194745d2df4c": "广联达远程代码执行代码审计",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488217&idx=1&sn=c37e1bd4e8179e029ebf65dbab89e0b8": "HW（2025-7-2）漏洞信息收集汇总",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNjIzMjM5Ng==&mid=2247492739&idx=1&sn=a31825fbcf1672e35b9a57a9b549c2db": "从漏洞到韧性：服务器安全防护全景解析",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503550&idx=1&sn=403675d7942468c56b29a05e37f625fc": "【已复现】Google Chrome V8 类型混淆漏洞(CVE-2025-6554)安全风险通告"
 }
