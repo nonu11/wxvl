@@ -15751,5 +15751,7 @@
     "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499989&idx=3&sn=ffe4d01494f91fdfb954e714686d7dc2": "实战级权限维持，从配置到命令执行一键部署 ViewState WebShell",
     "https://mp.weixin.qq.com/s?__biz=Mzk1NzMwNTM5NQ==&mid=2247486706&idx=1&sn=b26a94a4d38e3bd58c87867369340cae": "国内白帽子能赚多少钱？有多少白帽子全职挖洞能养活自己？零基础兼职挖漏洞收藏这一篇就够了",
     "https://mp.weixin.qq.com/s?__biz=Mzk0MDYwMjE3OQ==&mid=2247486896&idx=1&sn=43defdb17bf801bce12e5cc72250945f": "10 米内就能窃听你的耳机！知名音频芯片曝漏洞，索尼、Bose 等大牌耳机受影响",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "【0day】泛微OA前台登录绕过+后台组合拳RCE"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490104&idx=1&sn=bfc287009021abce228aa120eb7673cc": "【0day】泛微OA前台登录绕过+后台组合拳RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503443&idx=1&sn=ac58ea5dade899a4310c5f8e8bdcaf76": "【成功复现】WinRAR目录遍历漏洞(CVE-2025-6218)",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjYyMzkwOA==&mid=2247531563&idx=1&sn=fd2abea0bc22c02f009f198104bb3b39": "简单利用 Wing FTP 服务器 RCE (CVE-2025-47812) 漏洞，运行命令并获取反向 shell"
 }
