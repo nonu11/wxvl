@@ -15765,5 +15765,8 @@
     "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795612&idx=1&sn=bd2ec5afa78de18935e0be3b142b5f54": "Houken 黑客组织利用 Ivanti 0day漏洞安装 Linux Rootkit",
     "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247546866&idx=1&sn=efc6e9e0da5cb112c035c0489e1f580c": "Nessus严重漏洞允许覆盖任意本地系统文件",
     "https://mp.weixin.qq.com/s?__biz=MzkwODM3NjIxOQ==&mid=2247502397&idx=1&sn=ba68750f81dfaf2beb069dfb38aef163": "Nessus严重漏洞允许覆盖任意本地系统文件",
-    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499995&idx=3&sn=afa5da2f0b688c70a82e89e06a22e9c4": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载"
+    "https://mp.weixin.qq.com/s?__biz=MzUyOTc3NTQ5MA==&mid=2247499995&idx=3&sn=afa5da2f0b688c70a82e89e06a22e9c4": ".NET 介绍一种隐蔽的命令执行方式，通过 LINQ 投影执行动态加载",
+    "https://mp.weixin.qq.com/s?__biz=MzI4NDY2MDMwMw==&mid=2247514631&idx=1&sn=fd5a357122fb4f7943b832c639bc9e1a": "MCP工具链首个严重漏洞？一个钓鱼网页，远程劫持开发者电脑",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492002&idx=1&sn=b6880866102aa41c8fbb56a6d73544e8": "Optilink upgrade.php 命令执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0NTY4OTM3Nw==&mid=2247484003&idx=1&sn=6ca85c68883c94d0e914bf8d9fd9fe5f": "夏日狂欢 | 限时漏洞翻倍悬赏活动"
 }
