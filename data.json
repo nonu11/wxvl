@@ -15823,5 +15823,10 @@
     "https://mp.weixin.qq.com/s?__biz=MzAxODY1OTM5OQ==&mid=2651463225&idx=1&sn=9e7ac9b4c67a54c61ca683961a676c1a": "信息安全漏洞月报（2025年6月）",
     "https://mp.weixin.qq.com/s?__biz=MzIzMTIzNTM0MA==&mid=2247497815&idx=1&sn=2e590228585b24abbfe047e87ea21252": "赏金15000美元的 RCE",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM0NDIxNQ==&mid=2247494698&idx=1&sn=47fe75c62630836696f6a32f42bef890": "一个用于 Burp Suite 的插件，专为检测和分析 SQL 注入漏洞而设计。",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324554&idx=3&sn=6d8a6aafd07ad3be4a5c0f54d00e56f5": "Web服务器面临认证前RCE与管理员接管风险，PoC已公开",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=2&sn=048d64bc02eca684e34c739477aeaf19": "漏洞预警 | 泛微E-Cology登录绕过漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490446&idx=1&sn=726652b172d33357d42447129dcee18a": "【7∕7特辑】今日捕获大量漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzkwNjczOTQwOA==&mid=2247495212&idx=1&sn=00ae3354296be75c719f7c2bda855410": "效率翻倍 | 集成化BurpSuite漏洞探测插件实战演示",
+    "https://mp.weixin.qq.com/s?__biz=MzIwNDk0MDgxMw==&mid=2247500089&idx=1&sn=34735acc4543857c99268d52e2e5b501": "2025年人工智能大模型产品漏洞众测活动启动公告",
+    "https://mp.weixin.qq.com/s?__biz=MzkwMTQ0NDA1NQ==&mid=2247493642&idx=3&sn=2709c18c5a5c8ca60abe331da6813af4": "漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞"
 }
