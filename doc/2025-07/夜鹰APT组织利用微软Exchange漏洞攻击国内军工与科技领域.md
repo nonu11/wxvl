@@ -1,20 +1,20 @@
 #  夜鹰APT组织利用微软Exchange漏洞攻击国内军工与科技领域  
- FreeBuf   2025-07-05 11:01  
+ 网络安全与人工智能研究中心   2025-07-08 01:28  
   
-![](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR38jUokdlWSNlAjmEsO1rzv3srXShFRuTKBGDwkj4gvYy34iajd6zQiaKl77Wsy9mjC0xBCRg0YgDIWg/640?wx_fmt=gif "")  
-  
-  
-![](https://mmbiz.qpic.cn/mmbiz_png/qq5rfBadR3ibAnU4vEr36WbU2bsWK319vloQ6I9pmVhooC97RsiaQtcHEN9DWkvWWdBOPOucSJ3QDtlQNDQ8U2Hw/640?wx_fmt=png&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_gif/ezpQRXtYHibyxtdPv3Xibm2WIxGeGTOHiaeHaXicVpjEoCpdMziceBzFewde58rWGj6FsfNRiaHLOk9hXVLA41Gjk50g/640?wx_fmt=gif&from=appmsg "")  
   
   
 网络安全研究人员近日披露了一个名为夜鹰（NightEagle，又称APT-Q-95）的未记录威胁组织，该组织利用微软Exchange服务器漏洞实施攻击，其攻击链包含零日漏洞利用，主要针对我国国内的政府、国防和科技部门。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319v1Y0JM0gjq7tocz5gwjtNVTiab9EzMgXyWgnMK9mZTibBgrKUxQj2hkuw/640?wx_fmt=jpeg&from=appmsg "")  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ezpQRXtYHibyxtdPv3Xibm2WIxGeGTOHiaeVEWm9Op545DDEnt04FBqqI5iaTgUylZdWbbov9vYUfqTHLkN1k3icXFQ/640?wx_fmt=jpeg&from=appmsg "")  
   
   
 **Part01**  
+  
 ## 攻击特征与基础设施  
+  
+  
 ##   
   
 据奇安信红雨滴团队报告，该威胁组织自2023年开始活跃，其网络基础设施更换速度极快。相关发现已在2025年7月1日至3日举办的第三届马来西亚国家网络防御与安全展览会（CYDES 2025）上公布。  
@@ -25,19 +25,20 @@
   
   
 **Part02**  
+  
 ### 定制化攻击工具分析  
   
   
 奇安信表示，调查始于在某客户终端发现定制版的Go语言工具Chisel。该工具被配置为计划任务，每四小时自动启动一次。  
   
   
-![image](https://mmbiz.qpic.cn/mmbiz_jpg/qq5rfBadR3ibAnU4vEr36WbU2bsWK319vOHnd4jzht8fsjg4WuHjWkj2N5g4eyHmiatF8euHhzM1ia7QWtU8MrI8Q/640?wx_fmt=jpeg&from=appmsg "")  
-  
+![](https://mmbiz.qpic.cn/mmbiz_jpg/ezpQRXtYHibyxtdPv3Xibm2WIxGeGTOHiaeiaiafv2Bu1RrFKVNbUibsygJLheGw4ITJ44rQwSK3rkdfCSHr21WG1esg/640?wx_fmt=jpeg&from=appmsg "")  
   
 报告指出：攻击者修改了开源内网穿透工具Chisel的源代码，硬编码执行参数，使用指定用户名密码，与指定C&C地址的443端口建立socks连接，并映射到C&C主机的指定端口实现内网穿透功能。  
   
   
 **Part03**  
+  
 ### 零日漏洞利用细节  
   
   
@@ -58,21 +59,19 @@ NightEagle APT Exploits Microsoft Exchange Flaw to Target China's Military and T
 https://thehackernews.com/2025/07/nighteagle-apt-exploits-microsoft.html  
   
   
+![](https://mmbiz.qpic.cn/mmbiz_png/ezpQRXtYHibyxtdPv3Xibm2WIxGeGTOHiaecJHVbBD6xboUBex9vuwhVuKiamv1jxHesepNyCUBibdxewPmekCkZItw/640?wx_fmt=png&from=appmsg "")  
+  
+编辑：席沐沂  
+  
+审核：秦川原  
+  
+来源：FreeBuf  
+  
 ###   
 ###   
-###   
-  
-**推荐阅读**  
-  
-[](https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324107&idx=1&sn=f89429997e0347cfe1580cc8ca6e858b&scene=21#wechat_redirect)  
-  
-### 电台讨论  
-  
-****  
   
   
   
-![图片](https://mmbiz.qpic.cn/mmbiz_gif/qq5rfBadR3icF8RMnJbsqatMibR6OicVrUDaz0fyxNtBDpPlLfibJZILzHQcwaKkb4ia57xAShIJfQ54HjOG1oPXBew/640?wx_fmt=gif&wxfrom=5&wx_lazy=1&tp=webp "")  
   
-   
+  
   
