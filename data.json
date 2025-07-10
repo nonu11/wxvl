@@ -15890,5 +15890,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzA5MzE5MDAzOA==&mid=2664245407&idx=2&sn=13edbb43d857ccee5d8e4bb9ad8106be": "CNNVD | 关于微软多个安全漏洞的通报",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=2&sn=842aa35155a1456c7ffced77317fd433": "【已复现】Windows Update Service 本地权限提升漏洞(CVE-2025-48799)",
     "https://mp.weixin.qq.com/s?__biz=MzIwMDk1MjMyMg==&mid=2247492872&idx=1&sn=90db05effb93a6cd8efb63c5fa4dfa0d": "【已复现】泛微e-cology 前台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597040&idx=2&sn=cdca0a3babe6585f09000478395ba7bf": "Windows 系统曝 wormable 级 RCE 漏洞，CVSS 评分 9.8",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503573&idx=1&sn=23659d5f1d53b4d6927caad698660884": "微软7月补丁日多个产品安全漏洞风险通告：12个紧急漏洞、12个重要漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzIyNDg2MDQ4Ng==&mid=2247487348&idx=1&sn=c2250c2542642b6f2e35d45cd6509d0d": "假“漏洞利用”真木马：一次CVE-2025-32023复现中的GitHub惊魂",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494180&idx=1&sn=b0353fe95161dbbe5a133dd5fa564d22": "【已复现】Git 远程代码执行漏洞(CVE-2025-48384)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NDYwMDA1NA==&mid=2247545194&idx=1&sn=f6a13541555121a7cef45a689b02e08d": "清华大学招聘漏洞挖掘工程师（清华大学正式合同）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5NDg4MzYzNQ==&mid=2247486516&idx=1&sn=8ce41df1c1c32eddb5762dc6c362a85b": "新一代SQL注入检测技术，小白也能轻松挖到漏洞！",
+    "https://mp.weixin.qq.com/s?__biz=MzU2NDgzOTQzNw==&mid=2247503452&idx=1&sn=2a1a3a5acd88ac7d56b6249129a61d52": "【成功复现】Pichome路径遍历漏洞 (CVE-2025-1743)",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2MDg0ODg1NQ==&mid=2247547132&idx=1&sn=cd484270f0cd9ed5dc17fdeafb2e76dd": "微软紧急修复高危蠕虫级RCE漏洞，威胁全网Windows系统"
 }
