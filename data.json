@@ -15879,5 +15879,11 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg2NDcwNjkzNw==&mid=2247487650&idx=1&sn=80fed50d074dc91f60f3b427591b90a7": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】",
     "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247489945&idx=7&sn=88d1aad32efce95a42eff434157efe29": "逆天提权漏洞，CVE-2025-32463，嘎嘎好使，速来复现",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NzY5NjgyNw==&mid=2247485722&idx=1&sn=93ce0517f2615466f5085ccd082cc479": "CVE-2025-48799: Windows 权限提升获取System权限【附POC】",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NzAwOTg4NQ==&mid=2649795670&idx=2&sn=5a43c62fd78188c6e942755268c937ef": "微软修复 Windows 和服务器中可蠕虫的远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324666&idx=3&sn=ee5583eca517c2e940909cfa2b32ad1e": "Git项目修复三大漏洞：远程代码执行、任意文件写入与缓冲区溢出",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3OTc0NDcyNQ==&mid=2247494211&idx=2&sn=4be1bcd1c4123271a7bf8f72da7e7e4d": "日本制铁解决方案公司遭遇零日漏洞攻击导致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247492931&idx=1&sn=170a4a59b56d9bc4fbdc04e77da37999": "【0day挖掘】怎么用“Rotor Goddess”轻松爆出过万资产的漏洞，以及其他小洞的出货方式与流程",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494208&idx=1&sn=101fa901a50f4681cd39776d41edc29d": "【已复现】泛微 E-cology9 未授权SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA5ODA0NDE2MA==&mid=2649788773&idx=1&sn=55305289f7f57f30bee8bcac340fbe90": "某电动汽车充电控制器曝严重漏洞，可被远程控制",
+    "https://mp.weixin.qq.com/s?__biz=MzI5MDE5NDcxMA==&mid=2650936291&idx=1&sn=c538ba31126da0a3fc74f6d7ae3694e6": "Windows Update 服务权限提升漏洞-CVE-2025-48799"
 }
