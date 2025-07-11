@@ -15931,5 +15931,7 @@
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
     "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500394&idx=1&sn=fa2fc8a9b7314e92c8443b15116c277e": "G.O.S.S.I.P 阅读推荐 2025-07-10 完蛋，AI已经可以找到内核的0day漏洞啦？",
     "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492412&idx=1&sn=bdef4f5797f61f734ae0e820df20489c": "渗透测试中的逻辑漏洞思路博弈",
-    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173760&idx=2&sn=35a632ac09e1d4c59846594fe7a0be16": "CNNVD通报微软多个安全漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173760&idx=2&sn=35a632ac09e1d4c59846594fe7a0be16": "CNNVD通报微软多个安全漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzA4NDQ5NTU0MA==&mid=2647690866&idx=1&sn=4a721e43a083294d91530414cbf72330": "0046.从图片上传到账户接管——真实渗透测试中上传、存储和 CORS 漏洞的串联",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507841&idx=1&sn=cfa2847a732b4051019158b1f166e27f": "泛微E-cology9 前台SQL注入漏洞"
 }
