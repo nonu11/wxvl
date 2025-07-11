@@ -1,5 +1,5 @@
 #  漏洞预警 | 汉王e脸通智慧园区管理平台SQL注入漏洞  
-浅安  浅安安全   2025-07-08 00:00  
+浅安  浅安安全   2025-07-10 23:50  
   
 **0x00 漏洞编号**  
 - # 暂无  
@@ -24,7 +24,7 @@ SQL注入
   
 **简述：**  
 汉王e脸通综合管理平台的  
-/manage/intercom/..;/..;/manage/firstPeopleOpen/getDoors.do  
+/manage/authMultiplePeople/queryManyPeopleGroupList.do  
 存在SQL注入漏洞，未经身份验证的攻击者可以通过该漏洞获取数据库敏感信息。  
   
 **0x04 影响版本**  
