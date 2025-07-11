@@ -15926,5 +15926,10 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4Nzk3MTg3MA==&mid=2247488451&idx=1&sn=a4ca5878e9febbc5fb079a6dbd862c55": "从Top20开源组件漏洞浅谈开源安全治理困境",
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494220&idx=1&sn=472c1cff94843a229b6f809057d46bb9": "【已复现】mcp-remote 远程代码执行漏洞(CVE-2025-6514)",
     "https://mp.weixin.qq.com/s?__biz=Mzg4NDg2NTM3NQ==&mid=2247484933&idx=1&sn=f500975fd1a9a25ea4573fcea6363636": "【0day挖掘】Rotor Goddess 轻松爆出过万资产漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517301&idx=1&sn=9d85a91e393af6ddcb3b5ea522d72c76": "漏洞预警｜银河麒麟桌面操作系统V10本地提权漏洞（CNNVD-2025-28344653∕KVE-2025-0603)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Mjc3NTMxOA==&mid=2247517301&idx=1&sn=9d85a91e393af6ddcb3b5ea522d72c76": "漏洞预警｜银河麒麟桌面操作系统V10本地提权漏洞（CNNVD-2025-28344653∕KVE-2025-0603)",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501295&idx=2&sn=1c50a343f89ffc932f66bb703f8abada": "【漏洞通告】Citrix NetScaler 内存泄漏漏洞 (CVE-2025-5777)",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324803&idx=3&sn=a328e0d32ba8414355872528a04b0823": "Linux内核NFT子系统曝高危\"双重释放\"漏洞可致本地提权",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5ODUxMzg0Ng==&mid=2247500394&idx=1&sn=fa2fc8a9b7314e92c8443b15116c277e": "G.O.S.S.I.P 阅读推荐 2025-07-10 完蛋，AI已经可以找到内核的0day漏洞啦？",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MjY1ODEwMA==&mid=2247492412&idx=1&sn=bdef4f5797f61f734ae0e820df20489c": "渗透测试中的逻辑漏洞思路博弈",
+    "https://mp.weixin.qq.com/s?__biz=MjM5MzMwMDU5NQ==&mid=2649173760&idx=2&sn=35a632ac09e1d4c59846594fe7a0be16": "CNNVD通报微软多个安全漏洞"
 }
