@@ -15951,5 +15951,9 @@
     "https://mp.weixin.qq.com/s?__biz=MzU2MjU2MzI3MA==&mid=2247484711&idx=1&sn=c2c06fac608791fac01832eab95ab674": "紧急预警：Linux曝高危Sudo漏洞，普通用户秒变root管理员！（附POC）",
     "https://mp.weixin.qq.com/s?__biz=MzA5MDg1MDUyMA==&mid=2650480563&idx=1&sn=4a7bad3b21c045e07a6af0044e20f2d8": "秦安：强烈的信号！将8家台湾实体列入出口管制，堵住天大的漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490169&idx=1&sn=1c03eca279db12aecea40a2a46eafd9a": "某新版诈骗双端APP通讯录存在前台SQL注入漏洞",
-    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023)"
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488282&idx=1&sn=9c0d55fb7692c79b5d1e5045cd757f49": "Redis 高危漏洞！HyperLogLog 竟成系统后门？(CVE-2025-32023)",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493127&idx=1&sn=70d0c3a1f601eb58a3674596ba2aad54": "EDUSRC-高危漏洞-从信息收集到后台多个越权漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500866&idx=1&sn=3e6caa7a94d92763e65f4895c1516b20": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=4&sn=f4ff1d606e1d6f8ff505f82837b16d16": "Struts2全版本漏洞检测工具更新！V19.68",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498069&idx=2&sn=90e786cab169095418610266a01f981a": "日本新日铁公司遭零日漏洞攻击致数据泄露"
 }
