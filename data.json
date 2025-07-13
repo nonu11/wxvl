@@ -15955,5 +15955,9 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493127&idx=1&sn=70d0c3a1f601eb58a3674596ba2aad54": "EDUSRC-高危漏洞-从信息收集到后台多个越权漏洞",
     "https://mp.weixin.qq.com/s?__biz=Mzg2NjY2MTI3Mg==&mid=2247500866&idx=1&sn=3e6caa7a94d92763e65f4895c1516b20": "Apache HTTP Server 2.4.64发布，修复8个漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzAxMjE3ODU3MQ==&mid=2650611404&idx=4&sn=f4ff1d606e1d6f8ff505f82837b16d16": "Struts2全版本漏洞检测工具更新！V19.68",
-    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498069&idx=2&sn=90e786cab169095418610266a01f981a": "日本新日铁公司遭零日漏洞攻击致数据泄露"
+    "https://mp.weixin.qq.com/s?__biz=MzkxNTI2NTQxOA==&mid=2247498069&idx=2&sn=90e786cab169095418610266a01f981a": "日本新日铁公司遭零日漏洞攻击致数据泄露",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324823&idx=1&sn=8d5de62308fd7ccffed1006c49b4d88f": "研究人员利用提示注入漏洞绕过Meta的Llama防火墙防护",
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483889&idx=1&sn=49db58752bf20b6e1a322dc5c9a9e614": "东胜物流软件GetDataListCA接口存在SQL注入漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492135&idx=1&sn=7bcedb196331e9addb1b70f3be0ea04e": "金蝶云星空 InOutDataService.GetImportOutData.common.kdsvc 远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=1&sn=b6dc54a7100f76968a25f6db47d5e0eb": "【已复现】Fortinet FortiWeb SQL注入漏洞(CVE-2025-25257)安全风险通告"
 }
