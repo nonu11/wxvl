@@ -15969,5 +15969,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzU5NDgxODU1MQ==&mid=2247503602&idx=2&sn=e1e4339c66bfeef7053ebf82a7b737eb": "【已复现】契约锁电子签章系统 pdfverifier 远程代码执行漏洞(QVD-2025-27432)安全风险通告",
     "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483910&idx=1&sn=ddd1317a978088995b6a1ebd87b17f71": "【已复现】用友NC FormItemServlet方法存在SQL注入漏洞",
     "https://mp.weixin.qq.com/s?__biz=MzIzNDU5NTI4OQ==&mid=2247489437&idx=1&sn=1e4298f03de6ef16d2e8a61fd667f0ef": "网络安全周刊#7: Fortinet FortiWeb 严重SQL注入漏洞剖析",
-    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击"
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODY0NTczMA==&mid=2247493135&idx=1&sn=306bed2b9378881be53a5e8817b5691b": "Forminator 插件漏洞使 WordPress 网站面临接管攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzA5MzU5MzQzMA==&mid=2652117105&idx=1&sn=a12c60fab95520633a959552231df442": "Apache HTTP Server 2.4.64发布，修复8个漏洞"
 }
