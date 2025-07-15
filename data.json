@@ -15996,5 +15996,12 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488681&idx=1&sn=409ec540f7d8b3a760b67e55ed9993f1": "用友U9 DynamaticExport.aspx接口存在任意文件读取漏洞 附POC",
     "https://mp.weixin.qq.com/s?__biz=MzI3NzMzNzE5Ng==&mid=2247490431&idx=1&sn=1413a05f807dd28e1228256420189b24": "【高危漏洞预警】Apache Jackrabbit XXE漏洞CVE-2025-53689",
     "https://mp.weixin.qq.com/s?__biz=MzkzMTcwMTg1Mg==&mid=2247492144&idx=1&sn=a97ed21e2e7bc3d25299fec618723370": "金蝶云星空 DevReportService.GetBusinessobjectData.common.kdsvc 远程代码执行",
-    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=2&sn=3cc3fd02d7bb4c8d993138dce7afa3f6": "Wing FTP严重漏洞已遭在野利用"
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=2&sn=3cc3fd02d7bb4c8d993138dce7afa3f6": "Wing FTP严重漏洞已遭在野利用",
+    "https://mp.weixin.qq.com/s?__biz=MzIzMzE4NDU1OQ==&mid=2652070668&idx=3&sn=f6738b4d25376f97072651a492c6a6f8": "【安全圈】500美元就能遥控列车急刹？美国铁路12年前的惊天漏洞，如今才被曝光！",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523576&idx=2&sn=cae33dc0a4154ffe056c01f3975eb200": "ImageMagick存在栈缓冲溢出漏洞，可导致RCE",
+    "https://mp.weixin.qq.com/s?__biz=MzI2NTg4OTc5Nw==&mid=2247523565&idx=1&sn=bb6888cc84ad4eba9d87a3ed0137acd8": "APP_KEYs遭暴露，超600款Laravel应用易遭RCE攻击",
+    "https://mp.weixin.qq.com/s?__biz=MzI0MDY1MDU4MQ==&mid=2247583802&idx=1&sn=c914497a8cef5d31d229e7ce9ad87e00": "蓝牙漏洞可能会让黑客通过麦克风窃取信息",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651324943&idx=2&sn=f92e83da511bb4652e239c42897f2491": "一键获取上万份资料和漏洞情报的资源情报网站",
+    "https://mp.weixin.qq.com/s?__biz=MzkxNzY5MTg1Ng==&mid=2247490018&idx=1&sn=ec2976fde305b530d4b85fb570f334aa": "【神器合集】漏洞挖掘效率翻倍！武装你的burpSuite",
+    "https://mp.weixin.qq.com/s?__biz=MzU3ODM2NTg2Mg==&mid=2247496126&idx=2&sn=ccf97af76f2a431d483b41df127f0530": "上周关注度较高的产品安全漏洞(20250707-20250713)"
 }
