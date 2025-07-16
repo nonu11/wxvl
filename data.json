@@ -16023,5 +16023,6 @@
     "https://mp.weixin.qq.com/s?__biz=MzI0NzEwOTM0MA==&mid=2652503462&idx=1&sn=0f722394919e6b8af1e3bb654383e66c": "雷神众测漏洞周报2025.7.7-2025.7.13",
     "https://mp.weixin.qq.com/s?__biz=Mzk0OTY1NTI5Mw==&mid=2247493321&idx=1&sn=ccb64d65a92e030fab4bd17e36c69881": "一键获取上万份资料和漏洞情报的资源情报网站",
     "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=1&sn=aedd535f601272923435b2dcbc06a9f0": "【已复现】Fortinet FortiWeb存在SQL注入漏洞（CVE-2025-25257）",
-    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MzUzOTE2OTM5Mg==&mid=2247490480&idx=2&sn=72f9ba58728459766a57f577c2d117bb": "【已复现】用友U9 Cloud存在远程代码执行漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494273&idx=2&sn=b8f964af67c9b2e67292e2498926bc29": "【已复现】用友U9 Cloud远程代码执行漏洞"
 }
