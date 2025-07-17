@@ -16048,5 +16048,11 @@
     "https://mp.weixin.qq.com/s?__biz=MzIxMTg1ODAwNw==&mid=2247500987&idx=1&sn=25f8d604058e852f92ef77abc5548ad6": "WPS 文档中心与文档中台远程代码执行漏洞远程代码执行漏洞",
     "https://mp.weixin.qq.com/s?__biz=MjM5NjA0NjgyMA==&mid=2651325085&idx=3&sn=3fdc985551c6f7ef9efd22161d1894bc": "Windows Server 2025黄金dMSA漏洞使攻击者永久获取访问权限",
     "https://mp.weixin.qq.com/s?__biz=Mzg3MTY3NzUwMQ==&mid=2247490661&idx=1&sn=bdb612384cfb0e926f9418a23abe4ea4": "2025-7-17日漏洞情报汇总",
-    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597249&idx=2&sn=0a38ca2fa195a6fe70b51f15cdf2db5f": "速更新！谷歌修复正遭活跃利用的关键零日漏洞"
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597249&idx=2&sn=0a38ca2fa195a6fe70b51f15cdf2db5f": "速更新！谷歌修复正遭活跃利用的关键零日漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4NDkwMDAyMQ==&mid=2247487706&idx=1&sn=9349f46f0975d7d1ea8b8a818f6e839c": "【转子女神更新与0day挖掘】浅谈用转子挖掘0day的思路式，末尾有免费的交流圈",
+    "https://mp.weixin.qq.com/s?__biz=MjM5NTc2MDYxMw==&mid=2458597312&idx=2&sn=45995d7633ae08c6ed2c67558e2810f8": "安卓旧系统 OTA 包分析与漏洞提权适配",
+    "https://mp.weixin.qq.com/s?__biz=MzIxMjEzMDkyMA==&mid=2247488693&idx=1&sn=b67691800d32ebf2dc55f5bc0558137e": "汉王e脸通综合管理平台存在SQL注入漏洞 附POC",
+    "https://mp.weixin.qq.com/s?__biz=MzU2MTc4NTEyNw==&mid=2247487071&idx=1&sn=449a01cf695ea85b26246981212e2483": "挖SRC必须知道的25个漏洞提交平台",
+    "https://mp.weixin.qq.com/s?__biz=Mzg5MTc3ODY4Mw==&mid=2247507850&idx=1&sn=92e3b86bb828888ef9f72653adc6c80c": "漏洞通告 | 用友YonBIP（R6旗舰版）任意用户密码重置漏洞",
+    "https://mp.weixin.qq.com/s?__biz=MzkzNzY5OTg2Ng==&mid=2247501334&idx=2&sn=c11ce042dbc5e02e25cdeaa2e8f4c5df": "【漏洞通告】VMware VMXNET3整数溢出漏洞(CVE-2025-41236)"
 }
