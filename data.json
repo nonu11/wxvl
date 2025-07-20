@@ -16114,5 +16114,8 @@
     "https://mp.weixin.qq.com/s?__biz=Mzg4NTg5MDQ0OA==&mid=2247488334&idx=1&sn=3a054f59101088cae6b4a5ff415533fb": "紧急安全通告 Microsoft SharePoint 反序列化远程代码执行漏洞 (CVE-2025-53770) 风险预警",
     "https://mp.weixin.qq.com/s?__biz=Mzk0Mzc1MTI2Nw==&mid=2247493649&idx=1&sn=eb7d605ea84a7b3f40ec5719e76bc6f5": "【众测】分享某SRC众测高危逻辑漏洞一枚",
     "https://mp.weixin.qq.com/s?__biz=MzIxNTIzNTExMQ==&mid=2247491976&idx=1&sn=f20af65d96b6110fb508b76ef107652e": "【吃瓜】今日热传：微信客户端3.9版本 1click RCE的TSRC最终处置结果",
-    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483941&idx=1&sn=2d0124416fb498dc8f044ec3f1ce3919": "MetaCRM 客户关系管理系统 download-new.jsp 任意文件读取漏洞"
+    "https://mp.weixin.qq.com/s?__biz=Mzk5MDYxODcwMA==&mid=2247483941&idx=1&sn=2d0124416fb498dc8f044ec3f1ce3919": "MetaCRM 客户关系管理系统 download-new.jsp 任意文件读取漏洞",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486091&idx=1&sn=556ca88745998628df79a141223c15f3": "CVE-2025-25257｜Fortinet FortiWeb SQL注入漏洞（POC）",
+    "https://mp.weixin.qq.com/s?__biz=Mzg2Nzk0NjA4Mg==&mid=2247504063&idx=1&sn=3862aedb5fdb4ae21a2600a1dbbfb8e7": "Kernelhub，一个聚合了linux、windows、macOS的提权漏洞合集，带复现过程",
+    "https://mp.weixin.qq.com/s?__biz=Mzg3ODE2MjkxMQ==&mid=2247493336&idx=1&sn=cc2a10318a520a19485d14bbe63d0108": "3分钟搭建企业级防护|长亭WAF全面升级AI自动识别捕获拦截0day漏洞"
 }
