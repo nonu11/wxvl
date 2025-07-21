@@ -16122,5 +16122,7 @@
     "https://mp.weixin.qq.com/s?__biz=Mzk0ODM3NTU5MA==&mid=2247494397&idx=1&sn=2d557a6310019c001a326ad3a02cf112": "【在野利用】暂无补丁！Microsoft SharePoint 远程代码执行漏洞（CVE-2025-53770）",
     "https://mp.weixin.qq.com/s?__biz=MzI5NjA0NjI5MQ==&mid=2650184307&idx=1&sn=7caac1a81cfffb4dba7ed37940420255": "新漏洞又扎堆？AI：已锁定资产！",
     "https://mp.weixin.qq.com/s?__biz=Mzg2ODcxMjYzMA==&mid=2247486103&idx=2&sn=f472eeedc4d17f52b659a903246f212e": "CVE-2025-48799｜Windows Update 服务本地权限提升漏洞（POC）",
-    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900984&idx=1&sn=d98c17ca43e4a87289b89c03920b1777": "深度剖析思科ISE CVSS 10.0 漏洞：数字身份中枢的“完美风暴”"
+    "https://mp.weixin.qq.com/s?__biz=MzA4NTY4MjAyMQ==&mid=2447900984&idx=1&sn=d98c17ca43e4a87289b89c03920b1777": "深度剖析思科ISE CVSS 10.0 漏洞：数字身份中枢的“完美风暴”",
+    "https://mp.weixin.qq.com/s?__biz=MzkzMzE5OTQzMA==&mid=2247487755&idx=1&sn=72978a3fb406810d856d46411a32217c": "Jeecg-boot v2.1.2-v3.0.0 SQL注入漏洞+敏感接口分析",
+    "https://mp.weixin.qq.com/s?__biz=Mzg4MTkwMTI5Mw==&mid=2247490236&idx=1&sn=39ed76d3bfcabdd4def2ba2bd953ba5c": "某诈骗微盘存在前台SQL注入漏洞"
 }
